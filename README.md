@@ -1,5 +1,3 @@
 # Hogwarts-Houses
 
-
-
-ADD READ ME
+I wrote imposter and roster
