@@ -22,3 +22,5 @@ The program should query the students table in the students.db database for all 
 The program should then print out each student’s full name and birth year (formatted as, e.g., Harry James Potter, born 1980 or Luna Lovegood, born 1981).
 Each student should be printed on their own line.
 Students should be ordered by last name. For students with the same last name, they should be ordered by first name.
+
+*The only code I wrote is located in import.py and roster.py*
