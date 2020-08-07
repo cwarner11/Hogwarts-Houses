@@ -23,4 +23,4 @@ The program should then print out each student’s full name and birth year (for
 Each student should be printed on their own line.
 Students should be ordered by last name. For students with the same last name, they should be ordered by first name.
 
-*The only code I wrote is located in import.py and roster.py*
+*My code is located in import.py and roster.py*
